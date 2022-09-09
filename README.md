@@ -10,4 +10,6 @@
 ### Follow me 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
+### Work place
+<img src="https://img.shields.io/badge/Peaksoft-blue?style=for-the-badge&logo=Workplace&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
