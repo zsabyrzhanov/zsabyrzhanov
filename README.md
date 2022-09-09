@@ -1,4 +1,3 @@
-### Мой стек технологий 👋
+### Мой стек технологий: 👋
 
-<img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=Spring&logoColor=ЦВЕТ ЛОГОТИПА"/>
-
+<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Spring boot-black?style=for-the-badge&logo=Spring Boot&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Spring Security-black?style=for-the-badge&logo=Spring Security&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Thymeleaf-black?style=for-the-badge&logo=Thymeleaf&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=ЦВЕТ ЛОГОТИПА"/>
