@@ -1,3 +1,6 @@
+# <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=230&lines=Zamir+Sabyrzhanov)](https://git.io/typing-svg) </div>
+
+
 ### Мой стек технологий: 👋
 
 <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Spring boot-black?style=for-the-badge&logo=Spring Boot&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Spring Security-black?style=for-the-badge&logo=Spring Security&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Thymeleaf-black?style=for-the-badge&logo=Thymeleaf&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=ЦВЕТ ЛОГОТИПА"/> 
